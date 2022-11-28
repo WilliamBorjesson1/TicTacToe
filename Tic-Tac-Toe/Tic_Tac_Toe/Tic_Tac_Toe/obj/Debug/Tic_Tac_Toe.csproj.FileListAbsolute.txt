@@ -1,0 +1,16 @@
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe.config
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.pdb
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.AssemblyReference.cache
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\MainWindow.g.cs
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\App.g.cs
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe_MarkupCompile.cache
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe_MarkupCompile.lref
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\MainWindow.baml
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.g.resources
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.GenerateResource.cache
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
+C:\Users\Willi\OneDrive\Skrivbord\C#\Tic-Tac-Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
